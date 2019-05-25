@@ -13,7 +13,18 @@ git add *.html
 
 git rm --cached <file>
 git status
-git commit
+git commit      press "i" (insert mode) ---> escape :wq
 git push
 git pull
 git clone
+
+git commit -m 'xxxxx'  (commit with a message)
+
+touch .gitignore (build a git ignore folder so that if you don't want something be handled by git, just get them ignored)
+
+Cmd + Shift + . (dot) (use to see the hidden files in mac os)
+
+* branchs
+git branch
+git checkout <branch>
+git checkout master
