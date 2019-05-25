@@ -31,3 +31,21 @@ git checkout master
 =======
 Cmd + Shift + . (dot) (use to see the hidden files in mac os)
 
+git remote
+
+echo "# myappSample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/FangqiZhu/myappSample.git
+git push -u origin master
+
+
+git remote add origin https://github.com/FangqiZhu/myappSample.git
+git push -u origin master
+
+generate token: 3f30e0a9e956f0480f33b9c0e4577d22e426ce6d
+
+Link: https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent
+
+SHA256:SMNXdrbLi0M8zNY6If2R/jwTgXpdYRPfX5lCjbgk7xg fangqi.zhu@mavs.uta.edu
