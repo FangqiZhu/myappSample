@@ -28,3 +28,6 @@ Cmd + Shift + . (dot) (use to see the hidden files in mac os)
 git branch
 git checkout <branch>
 git checkout master
+=======
+Cmd + Shift + . (dot) (use to see the hidden files in mac os)
+
